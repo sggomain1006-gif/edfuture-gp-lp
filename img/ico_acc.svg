@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g fill="none" stroke="#fff" stroke-width="2">
+    <circle cx="15" cy="15" r="14"/><path d="M8 15h14M15 8v14" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#f7ee12" stroke-width="2">
+    <circle cx="65" cy="15" r="14"/><path d="M58 15h14M65 8v14" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="2">
+    <circle cx="15" cy="65" r="14"/><path d="M8 65h14" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#f7ee12" stroke-width="2">
+    <circle cx="65" cy="65" r="14"/><path d="M58 65h14" stroke-linecap="round"/>
+  </g>
+</svg>
